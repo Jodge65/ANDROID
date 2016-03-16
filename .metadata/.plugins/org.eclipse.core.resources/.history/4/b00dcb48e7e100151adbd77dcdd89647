@@ -1,0 +1,29 @@
+package fr.iutbya.joey.TP2;
+
+import java.util.Calendar;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.Spinner;
+import android.widget.TimePicker;
+
+public class MainActivity extends Activity 
+{
+	public TimePicker heureLocal, heureDistante;
+	public Spinner listePays;
+	
+    @Override
+    protected void onCreate(Bundle savedInstanceState) 
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        
+        heureLocal = (TimePicker) findViewById(R.id.heureAConvertir);
+        heureDistante = (TimePicker) findViewById(R.id.heureConvertie);
+        listePays = (Spinner) findViewById(R.id.choixPays);
+        
+        Calendar date = Calendar.getInstance();
+        heureLocal.setCurrentHour(date.get(Calendar.HOUR_OF_DAY));
+        heureLocal.setCurrentMinute(date.get(Calendar.MINUTE));
+    }
+}

@@ -1,0 +1,168 @@
+package fr.iutbay.joey.TD3;
+
+import java.io.File;
+import java.util.Vector;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
+import android.widget.ArrayAdapter;
+import android.widget.BaseAdapter;
+import android.widget.ListView;
+import android.widget.TextView;
+import android.widget.Toast;
+
+public class MainActivity extends Activity {
+
+	public ListView listFile;
+	public Vector<String> listUrl;
+	
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        listUrl = new Vector<String>();
+        listFile = (ListView)findViewById(R.id.listFile);
+        listFile.setAdapter(getContent(getIntent().getExtras().getString(MenuActivity.NOM_PARENT)));
+        listFile.setOnItemClickListener(new ActionTouch());
+    }
+        
+    public ArrayAdapter<String> getContent(String url)
+    {
+    	return getContent(new File(url));
+    }
+    
+    public ArrayAdapter<String> getContent(File dir)
+    {
+    	ArrayAdapter<String> listContent = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1);
+    	if(dir.getAbsolutePath() != "/")
+    		listContent.add("../");
+    	if(dir.isDirectory())
+    	{
+           	for(String urlFile : dir.list())
+        	{
+           		listUrl.add(urlFile);
+           		File file = new File(urlFile);
+           		if(file.isDirectory())
+           	    	listContent.add(urlFile+"/");
+           		else if(file.isFile())
+           	    	listContent.add(urlFile);
+        	}
+    	}
+		return listContent;
+    }
+    
+    public monAdapter getMyContent(String url)
+    {
+    	if(url == null)
+    		return getMyContent(new File("/"));
+    	else
+    		return getMyContent(new File(url));
+    }
+    
+    public monAdapter getMyContent(File dir)
+    {
+    	Vector<String> listContent = new Vector<String>();
+    	if(dir.getAbsolutePath() != "/")
+    		listContent.add("../");
+    	if(dir.isDirectory())
+    	{
+           	for(String urlFile : dir.list())
+        	{
+           		listUrl.add(urlFile);
+           		File file = new File(urlFile);
+           		if(file.isDirectory())
+           	    	listContent.add(urlFile+"/");
+           		else if(file.isFile())
+           	    	listContent.add(urlFile);
+        	}
+    	}
+    	
+		return new monAdapter(listContent);
+    }
+    private class ActionTouch implements OnItemClickListener	
+    {
+
+
+		@Override
+		public void onItemClick(AdapterView<?> parent, View view, int position, long id) 
+		{
+			File choisi;
+			choisi = new File(listUrl.elementAt(position));
+			
+			if(choisi.isDirectory())
+			{
+				if(choisi.canRead())
+				{
+					listFile.setAdapter(getContent(listUrl.elementAt(position)));
+					listFile.invalidate();
+				}
+				else
+				{
+					Toast.makeText(MainActivity.this, "Répertoire innaccessible", Toast.LENGTH_LONG).show();
+				}
+			}
+			else //if(choisi.isFile());
+			{ 
+				Intent retour = new Intent();
+
+				String name = choisi.getName();
+				long size = choisi.getTotalSpace();
+				boolean r = choisi.canRead();
+				boolean w = choisi.canWrite();
+				boolean x = choisi.canExecute();
+				
+			}
+		}
+    }
+    
+    public class monAdapter extends BaseAdapter
+    {
+    	protected Vector<String> elements;
+    	
+    	public monAdapter(Vector<String> contain)
+    	{
+    		elements = contain;
+    	}
+
+		@Override
+		public int getCount() 
+		{
+			return elements.size();
+		}
+
+		@Override
+		public Object getItem(int position) 
+		{
+			return elements.get(position);
+		}
+
+		@Override
+		public long getItemId(int position) 
+		{
+			return 0;//rang;
+		}
+
+		@Override
+		public View getView(int position, View convertView, ViewGroup parent) 
+		{
+			View uneListe = null;//ancienne;
+			LayoutInflater inflater = (LayoutInflater) MainActivity.this.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+			if(uneListe == null)
+			{
+				uneListe=null;//inflater.inflate(R.layout.elements, parent);
+				TextView nom = (TextView)uneListe.findViewById(R.id.listFile);
+				String leNom = elements.elementAt(position);
+			}
+			return null;
+		}
+    }
+    
+    
+}

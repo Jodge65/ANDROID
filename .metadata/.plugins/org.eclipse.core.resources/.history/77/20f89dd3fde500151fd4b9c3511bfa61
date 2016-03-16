@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TP1</string>
+    <string name="title">Paramétrage</string>
+    <color name="separator">#FFF</color>
+    <string name="silencieux">silencieux</string>
+    <string name="volume">volume : </string>
+    <string name="subtitle">Orientation de l\'écran</string>
+    <string name="portrait">Portrait</string>
+    <string name="luminosite">Luminosité : </string>
+    <string name="veille">Mise en veille</string>
+    <string name="trenteSeconde">30 Secondes</string>
+    <string name="uneMinute">1 minute</string>
+    <string name="quinzeMinutes">15 minutes</string>
+    <string name="uneHeure">1 heure</string>
+    <string name="jamais">jamais</string>
+    
+    <string-array name="orientationArray">
+        <item>Portrait</item>
+        <item>Paysage</item>
+    </string-array>
+        <string name="reglageSon">Réglage du son</string>
+        <string name="subtitleSon">"Volume : "</string>
+        <string name="reglageEcran">Réglage de l\'écran</string>
+        <string name="subtitleOneEcran">Portrait</string>
+        <string name="subtitleTwoEcran">"Luminosité : "</string>
+        <string name="reglageVeille">Mise en veille</string>
+        
+	
+    
+</resources>

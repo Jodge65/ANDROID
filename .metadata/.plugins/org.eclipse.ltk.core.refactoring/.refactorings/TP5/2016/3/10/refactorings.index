@@ -1,0 +1,18 @@
+1457528854041	Move 'strings.xml' to 'values'
+1457529226083	Copy file
+1457529240039	Delete element
+1457529249542	Copy compilation unit
+1457529288460	Copy compilation unit
+1457529315376	Rename resource 'activity_orientation.xmp'
+1457529492449	Copy compilation unit
+1457530258524	Rename field 'TextView01'
+1457530308026	Extracts string 'null' into R.string.reglageSon
+1457530361477	Extracts string 'null' into R.string.subtitleSon
+1457530630038	Extracts string 'null' into R.string.reglageEcran
+1457530647300	Extracts string 'null' into R.string.subtitleOneEcran
+1457530688917	Extracts string 'null' into R.string.subtitleTwoEcran
+1457531080557	Rename field 'ImageView01'
+1457531283607	Rename field 'TextView02'
+1457531383238	Extracts string 'null' into R.string.reglageVeille
+1457531404454	Extracts string 'null' into R.string.subtitleVeille
+1457531540894	Extracts string 'null' into R.string.leave

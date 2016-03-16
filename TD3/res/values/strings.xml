@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TD3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="root">Racine</string>
+    <string name="sdCard">Carte SD</string>
+    <string name="parcourir">Parcourir</string>
+    <string name="nameText">Chemin : </string>
+    <string name="sizeText">Taille : </string>
+    <string name="isWritableText">Modifiable</string>
+    <string name="isReadableText">Ouvrable</string>
+    <string name="isExecutableText">Exécutable</string>
+    <string name="isHiddenText">Caché</string>
+    
+</resources>

@@ -1,0 +1,24 @@
+package fr.iutbay.joey.TD6;
+
+import com.google.android.maps.MapActivity;
+import com.google.android.maps.MapView;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+
+public class MainActivity extends MapActivity {
+
+	public MapView map;
+    @Override
+    protected void onCreate(Bundle savedInstanceState) 
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        map = (MapView) this.findViewById(R.id.map);
+        map.setBuiltInZoomControls(true);
+    }
+    
+    @Override
+    protected boolean isRouteDisplayed() { return false; }
+}

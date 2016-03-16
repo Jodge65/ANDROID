@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <Button
+        android1:id="@+id/testAudio"
+        android1:layout_width="fill_parent"
+        android1:layout_height="wrap_content"
+        android1:text="@string/testAudio" />
+
+    <Button
+        android1:id="@+id/testVideo"
+        android1:layout_width="fill_parent"
+        android1:layout_height="wrap_content"
+        android1:text="@string/testVideo" />
+    
+</LinearLayout>

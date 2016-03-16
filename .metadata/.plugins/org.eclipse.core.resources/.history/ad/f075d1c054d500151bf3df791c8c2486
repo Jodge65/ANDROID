@@ -1,0 +1,112 @@
+<?xml versio="1.0" encoding="utf-8"?>
+<!-- res/layout -->
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+>
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+	>
+		<AnalogClock
+			android:id="@+id/clock"
+			android:layout_width="wrap_content"
+			android:layout_heigt="@/dimension/pendule"
+			android:layout_gravity="center"
+		/>
+		
+		<TimePicker
+			android:id="@+id/timer"
+			android:layout_width="wrap_content"
+			android:layout_heigt="wrap_content"
+			android:layout_gravity="right"
+		/>
+		
+		<EditText
+			android:id="@+id/text"
+			android:layout_width="wrap_content"
+			android:layout_heigt="wrap_content"
+			android:hint="@/string/textHintText"
+			android:textSize)"@/dimension/textDim"
+			android:singleLine="true"
+			android:imputTypes="time"
+		/>
+	</LinearLayout>
+	
+
+	
+	<TimePicker
+		android:id="@+id/timer"
+		android:layout_width="wrap_content"
+		android:layout_heigt="wrap_content"
+		android:layout_gravity="right"
+	/>
+	
+	<RadioGroup
+		android:id="@+id/groupRadioButton"
+		android:layout_width="wrap_content"
+		android:layout_heigt="wrap_content"
+		android:orientation="vertical"
+		android:layout_gravity="left"
+		android:background="@/color/blue"
+	>
+	
+		<RadioButton
+			android:id="@+id/sonnerieRadiButton"
+			android:layout_width="wrap_content"
+			android:layout_heigt="wrap_content"
+			android:text="@/string/ringText"
+			android:check="false"
+			android:textColor="black"
+			android:textStyle="bold"
+		/>
+		
+		<RadioButton
+			android:id="@+id/vibreurRadiButton"
+			android:layout_width="wrap_content"
+			android:layout_heigt="wrap_content"
+			android:text="@/string/ringText"
+			android:check="true"
+			android:textColor="black"
+			android:textStyle="bold"
+		/>
+	</RadioGroup>
+	
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:sum="100"
+	>
+		<Button
+			android:id="@+id/ok"
+			android:layout_width="match_parent"
+			android:layout_heigt="wrap_content"
+			android:text="@/string/okText"
+			android.weight="60"
+		/>
+		
+		<Button
+			android:id="@+id/premier"
+			android:layout_width="wrap_content"
+			android:layout_heigt="wrap_content"
+			android:text="@/string/annulerText"
+			android.weight="40"
+		/>
+	</LinearLayout>
+	
+	<!--
+	<scrollView
+	
+	>
+		<textView>
+		
+		>
+		
+		</textView>
+	</scrollView>
+	-->
+</LinearLayout>

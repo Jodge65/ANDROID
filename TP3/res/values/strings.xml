@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TP3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="modeImage">
+        <item >MATRIX</item>
+        <item >CENTER</item>
+        <item >FIT_XY</item>
+        <item >FIT_START</item>
+        <item >FIT_CENTER</item>
+        <item >FIT_END</item>
+        <item >CENTER_CROP</item>
+        <item >CENTER_INSIDE</item>
+    </string-array>
+
+</resources>

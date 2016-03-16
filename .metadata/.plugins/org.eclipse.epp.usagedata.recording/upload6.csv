@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871685412
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871701338
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.cleanAction",1455871701338
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1455871702870
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1455871708208
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1455871708208
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1455871708224
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1455871708224
+started,bundle,org.eclipse.search,3.7.0.v20110928-1504,"org.eclipse.search",1455871708271
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1455871708318
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110928-1453,"org.eclipse.jdt.junit.core",1455871711271
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1455871715008
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1455871715040
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20111006_r372,"org.eclipse.jdt.debug",1455871718642
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1455871718679
+started,bundle,com.android.ide.eclipse.ndk,23.0.7.2120684,"com.android.ide.eclipse.ndk",1455871718735
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871718954
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871721261
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871721308
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871722418
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1455871722433
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1455871722464
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1455871729818
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871732553
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1455871733893
+started,bundle,org.eclipse.wst.jsdt.core,1.1.102.v201111090634,"org.eclipse.wst.jsdt.core",1455871734099
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1455871734161
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871734333
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1455871734364
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455871734364
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871739677
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871741567
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.cleanAction",1455871741583
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1455871741599
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1455871757990
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871774085
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871776679
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1455871776679
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455871776679
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871779070
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871780289
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.cleanAction",1455871780289
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871784095
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871785470
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1455871785470
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455871785470
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871791188
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1455871792504
+closed,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455871792520
+closed,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1455871792598
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871792660
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1455871792660
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455871792660
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871801610
+error,log,,,"",1455871833130
+started,bundle,org.eclipse.pde.core,3.7.1.v20120103_r372,"org.eclipse.pde.core",1455871833208
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871836129
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1455871836223
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1455871836301
+opened,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455871836457
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455871836520
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.garbagecollector",1455871837770
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455871855797
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1455871860703
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1455871862782
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455871865129
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871866514
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871868826
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.cleanAction",1455871868826
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1455871931309
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1455871933421
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871936234
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871946524
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\armeabi-v7a\\devices.xml",1455871946680
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1455871946680
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\x86\\devices.xml",1455871946695
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455871946711
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\armeabi-v7a\\devices.xml",1455871960826
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\x86\\devices.xml",1455871960826
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\armeabi-v7a\\devices.xml",1455871963748
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\x86\\devices.xml",1455871963748
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\armeabi-v7a\\devices.xml",1455871979577
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\x86\\devices.xml",1455871979577
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\armeabi-v7a\\devices.xml",1455872182781
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\x86\\devices.xml",1455872182797
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\armeabi-v7a\\devices.xml",1455872229260
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\x86\\devices.xml",1455872229260
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\armeabi-v7a\\devices.xml",1455872233009
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\x86\\devices.xml",1455872233025
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\armeabi-v7a\\devices.xml",1455872242830
+error,log,,,"Error: Error parsing C:\\Program Files (x86)\\Android\\android-sdk\\system-images\\android-23\\android-wear\\x86\\devices.xml",1455872242846
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872251540
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872252946
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872273554
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872287544
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872317249
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872320723
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872385319
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872385459
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455872404452
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872452771
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872494177
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1455872533887
+opened,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872535169
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872535215
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872542223
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872543410
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872549996
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455872563376
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455872563485
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455872564033
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872574235
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455872591821
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872635301
+error,log,,,"activity_tp1.xml: Dimension ""10"" in attribute ""layout_height"" is missing unit!",1455872635301
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872645852
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872657062
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872667209
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872667302
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872667380
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872677767
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455872682781
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872686748
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872691716
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872695127
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455872695142
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872695220
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872695267
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872697287
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872700015
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455872700047
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455872721011
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872724682
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872726991
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872727053
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872729558
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455872731014
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872731873
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872732520
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872732613
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872783721
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455872788512
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872813356
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872827115
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872828345
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872828423
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872851412
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872855062
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872855125
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872860871
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872879778
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872881746
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872891633
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455872896081
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872901919
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872914429
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872914986
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872918309
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872924741
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872925413
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872925491
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872940985
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872948912
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872949334
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455872949912
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455872952146
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872952178
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455872958850
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455872964819
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455872965256
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873000521
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873001990
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873002068
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455873002068
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873002130
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455873002177
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873014959
+error,log,,,"Could not create tab content because could not find view with id -1",1455873017303
+error,log,,,"Could not create tab content because could not find view with id -1",1455873017303
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873017334
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455873018725
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455873019795
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455873020263
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873042443
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873083053
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873083099
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873097149
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873104198
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873104261
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455873107997
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455873110872
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873150658
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873313474
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873314849
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873314927
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873314958
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455873326372
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1455873328867
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455873336748
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873347566
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873348941
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455873372513
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873384203
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455873384218
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873386525
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873456178
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873457721
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873457814
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455873457814
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873457877
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455873457893
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873591136
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873592804
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873592867
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873593086
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873593117
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873593148
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873596130
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873599536
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873599583
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873642873
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873643233
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873643295
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873645186
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873646139
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873726456
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1455873741846
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455873747067
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873780442
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873781364
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873781426
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873784223
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873792279
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873794561
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873797069
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873804580
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873804707
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873808394
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873808535
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873808597
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873866221
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455873909785
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455873938550
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1455873938909
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455873951352
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455873952618
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1455874013753
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1455874017640
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455874018500
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1455874018828

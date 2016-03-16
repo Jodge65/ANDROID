@@ -1,0 +1,79 @@
+package fr.iutbay.joey.TP5;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.TextView;
+
+public class AccueilActivity extends Activity 
+{
+	public TextView rubriqueSon, rubriqueEcran, rubriqueVeille, 
+					subtitleSon, subtitleEcran, subtitleEcranBis, subtitleVeille;
+	public int valueSound;
+    @Override
+    protected void onCreate(Bundle savedInstanceState) 
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_accueil);
+        
+        rubriqueSon = (TextView) findViewById(R.id.reglageSon);
+        rubriqueEcran = (TextView) findViewById(R.id.reglageEcran);
+        rubriqueVeille = (TextView) findViewById(R.id.reglageVeille);
+
+        rubriqueSon.setOnClickListener(new gotoSoundSetting());
+        rubriqueEcran.setOnClickListener(new gotoScreenSetting());
+        rubriqueVeille.setOnClickListener(new gotoVeilleSetting());
+        
+        subtitleSon = (TextView) findViewById(R.id.subtitleSon);
+        subtitleEcran = (TextView) findViewById(R.id.subtitleEcran);
+        subtitleEcranBis = (TextView) findViewById(R.id.subtitleEcranBis);
+        subtitleVeille = (TextView) findViewById(R.id.subtitleVeille);
+        
+        String textSon = this.getString(R.string.subtitleSon);
+        String textEcran = this.getString(R.string.subtitleOneEcran);
+        String textEcranBis = this.getString(R.string.subtitleTwoEcran);
+        String textVeille = this.getString(R.string.subtitleVeille);
+        if(false) // si param exist
+        {
+        	
+        }
+        else
+        {
+        	
+        }
+    }
+    
+    private class gotoSoundSetting implements OnClickListener
+    {
+		@Override
+		public void onClick(View v) 
+		{
+			Intent menuSon = new Intent(AccueilActivity.this, VolumeActivity.class);
+			menuSon.putExtra("test", "chaine en dur");
+
+			startActivity(menuSon);
+		}
+    }
+    
+    private class gotoScreenSetting implements OnClickListener
+    {
+		@Override
+		public void onClick(View v) 
+		{
+			Intent menuEcran = new Intent(AccueilActivity.this, OrientationActivity.class);
+			startActivity(menuEcran);
+		}
+    }
+    
+    private class gotoVeilleSetting implements OnClickListener
+    {
+		@Override
+		public void onClick(View v) 
+		{
+			Intent menuVeille = new Intent(AccueilActivity.this, VeilleActivity.class);
+			startActivity(menuVeille);
+		}
+    }
+}

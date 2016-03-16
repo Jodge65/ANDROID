@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874019406
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1455874027250
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455874027915
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1455874028212
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874030781
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455874036404
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1455874036732
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874038326
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874039123
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874040701
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455874047731
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874047746
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874056902
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1455874094974
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1455874095271
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1455874095412
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.deletePreviousWord",1455874103887
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.deletePreviousWord",1455874104262
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.deletePreviousWord",1455874104559
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455874119421
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455874119859
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455874120000
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455874120140
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455874120328
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455874120453
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455874120593
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455874120781
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455874121125
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455874122031
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874145380
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874148028
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874150232
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455874155263
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874155357
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874155404
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874155435
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874166143
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874168877
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874196282
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455874235036
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874250367
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455874274803
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455874298475
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874327279
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455874329647
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874329740
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874329772
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874329819
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874349966
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874350075
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874350138
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874352059
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455874353169
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874354185
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874356357
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874356403
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874360169
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1455874360185
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874361160
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874361207
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874361238
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874392561
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874392592
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874392608
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874397218
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455874401320
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874401335
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874479864
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874481896
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455874486768
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874492616
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874492647
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455874493928
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874493991
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874494022
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874494053
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1455874498162
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874508320
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455874521913
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1455874523337
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874524259
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874525546
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455874529050
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874529082
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874529113
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874529144
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874529175
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1455874530534
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874532113
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1455874534927
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1455874535411
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874569912
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874579317
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874582782
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874587839
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1455874591104
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455874591935
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874593313
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874594828
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874652576
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455874655953
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874670388
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874673685
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874673810
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874675501
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874675801
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874675848
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874684630
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455874696080
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874697585
+error,log,,,"Unhandled event loop exception",1455874723553
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1455874750064
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874755986
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874758425
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874758472
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874784613
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874805909
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874806409
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455874809484
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874826918
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874828762
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874859463
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874863923
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874863985
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455874883297
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874942026
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455874942808
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874992977
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874995542
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874995574
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874996527
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874996792
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455874996839
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455874998152
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875006966
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875009294
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875009356
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1455875015518
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875015908
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875038387
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875039996
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875040918
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875040965
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875041028
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875041465
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875073292
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875074136
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875119437
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875119562
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875119608
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875133433
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455875207744
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875224319
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455875228444
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1455875240913
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875241929
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455875246308
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1455875252487
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875254171
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455875254203
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.TaskList",1455875259000
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1455875259734
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455875260015
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455875270579
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875277731
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875279371
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875279402
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875280246
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875280621
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875280668
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455875320490
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455875330211
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875408198
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875409308
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875409370
+error,log,,,"activity_tp1.xml: java.lang.NullPointerException",1455875409386
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875414767
+error,log,,,"activity_tp1.xml: java.lang.NullPointerException",1455875414782
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1455875510523
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875511038
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1455875511741
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875512929
+error,log,,,"activity_tp1.xml: java.lang.NullPointerException",1455875512945
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455875516611
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875532358
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875536515
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875539810
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455875542591
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875547320
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875548039
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875548086
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875550289
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1455875550320
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455875894262
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875904611
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875904986
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455875905470
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875905580
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875906236
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875909288
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875911388
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875917496
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875917621
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875917683
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455875948197
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875960352
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875967727
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455875971602
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875972821
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875972946
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875973024
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875975908
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875976033
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875976095
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875977892
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875978205
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875978267
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875983013
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875983138
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875983216
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875988631
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875990803
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455875992256
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1455875993068
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875993943
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455875994068
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455875994131
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876000860
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876001016
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455876001063
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455876002512
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1455876002543
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876015094
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876015406
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455876015484
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876021487
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876021596
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455876021674
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876024333
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876027795
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876034744
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876034869
+error,log,,,"activity_tp1.xml: Dimension ""30"" in attribute ""textSize"" is missing unit!",1455876034916
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1455876038395
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876042333
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455876045536
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1455876049380
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1455876055241
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1455876056155
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1455876056608

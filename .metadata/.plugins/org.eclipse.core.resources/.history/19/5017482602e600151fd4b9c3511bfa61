@@ -1,0 +1,24 @@
+package fr.iutbay.joey.TP5;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.TextView;
+
+public class VolumeActivity extends Activity {
+
+	public TextView sliderName;
+    @Override
+    protected void onCreate(Bundle savedInstanceState) 
+	{
+
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_veille);
+        
+        sliderName = (TextView) findViewById(R.id.volumeText);
+        
+        String text = this.getIntent().getExtras().getString("text");//savedInstanceState.getString("test");
+        sliderName.setText(text);
+
+        
+    }
+}

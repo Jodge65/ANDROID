@@ -1,0 +1,33 @@
+package fr.iutbay.joey.TD6;
+
+import com.google.android.maps.GeoPoint;
+import com.google.android.maps.MapActivity;
+import com.google.android.maps.MapController;
+import com.google.android.maps.MapView;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+
+public class MainActivity extends MapActivity {
+
+	public MapView map;
+	public MapController mapControl;
+	
+    @Override
+    protected void onCreate(Bundle savedInstanceState) 
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        map = (MapView) this.findViewById(R.id.map);
+        map.setBuiltInZoomControls(true);
+        mapControl = map.getController();
+        GeoPoint posStart = new GeoPoint(43480000, -1510000);
+        mapControl.animateTo(posStart);
+        
+        mapControl.setZoom(10);
+    }
+        
+    @Override
+    protected boolean isRouteDisplayed() { return false; }
+}

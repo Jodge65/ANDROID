@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ressources>
+	<string name="ringText">
+		Sonnerie
+	</string>
+	<string name="vibreurText">
+		Vibreur
+	</string>
+	<string name="okText">
+		Okay !
+	</string>
+	<string name="annulerText">
+		Annuler
+	</string>
+	<string name="textHintText">
+		Entrer une heure
+	</string>
+</ressources>

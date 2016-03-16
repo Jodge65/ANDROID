@@ -1,0 +1,58 @@
+package fr.iutbay.joey.TP3;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.widget.Gallery;
+import android.widget.ImageView;
+import android.widget.RadioGroup;
+
+
+public class MainActivity extends Activity {
+
+	public ImageView preview;
+	public Gallery gallery;
+	
+    @Override
+    protected void onCreate(Bundle savedInstanceState) 
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        
+        preview = (ImageView) findViewById(R.id.image);
+        gallery = (Gallery) findViewById(R.id.gallery);
+        gallery.setAdapter(new GestionnaireDeConteneur(this, 150, 150)); 
+        gallery.setOnItemSelectedListener(new SelectionImage());
+    }
+
+    private class SelectionImage implements OnItemSelectedListener
+    {
+		@Override
+		public void onCheckedChanged(RadioGroup group, int checkedId) 
+		{
+			
+		}
+    }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) 
+    {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.main, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) 
+    {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+        int id = item.getItemId();
+        if (id == R.id.action_settings) {
+            return true;
+        }
+        return super.onOptionsItemSelected(item);
+    }
+
+}
